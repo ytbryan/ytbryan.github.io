@@ -66,10 +66,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #007998;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #003c4c; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -147,6 +147,13 @@ pre {
 /**
  * Site header
  */
+span.front_title {
+  display: inline; }
+
+code.tag {
+  display: inline;
+  font-size: 11px; }
+
 .each-post {
   border-bottom: 1px solid #dddddd; }
 
@@ -281,7 +288,7 @@ pre {
   color: #828282; }
 
 .post-link {
-  display: block;
+  display: inline;
   font-size: 24px; }
 
 /**

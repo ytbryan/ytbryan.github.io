@@ -2,6 +2,8 @@
 title: Making a Product from scratch
 author: ytbryan
 layout: post
+categories: work
+tags: work
 permalink: /making-a-product-from-scratch/
 dsq_thread_id:
   - 2292153989

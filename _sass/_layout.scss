@@ -1,6 +1,15 @@
 /**
  * Site header
  */
+
+ span.front_title {
+   display:inline;
+ }
+
+ code.tag {
+   display: inline;
+   font-size: 11px;
+ }
 .each-post {
   border-bottom: 1px solid #dddddd;
 }
@@ -195,7 +204,7 @@
 }
 
 .post-link {
-    display: block;
+    display: inline;
     font-size: 24px;
 }
 

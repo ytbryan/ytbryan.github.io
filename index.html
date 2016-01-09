@@ -9,18 +9,19 @@ layout: default
       <li class="each-post">
         <span class="post-meta">{{# post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+          <span class="front_title">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a>
+            {% for category in post.categories %}
+              <code class="tag">
+                {{ category }}
+              </code>
+            {% endfor %}
 
-        <p>
-          {% for category in post.categories %}
-          <span>
-            {{ category }}
           </span>
-          {% endfor %}
-        </p>
 
+
+
+        </span>
       </li>
 
     {% endfor %}
