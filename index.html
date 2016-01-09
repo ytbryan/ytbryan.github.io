@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="each-post">
+        <span class="post-meta">{{# post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <p>
+          {% for category in post.categories %}
+          <span>
+            {{ category }}
+          </span>
+          {% endfor %}
+        </p>
+
+      </li>
+
+    {% endfor %}
+  </ul>
+
+</div>
