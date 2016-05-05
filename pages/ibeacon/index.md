@@ -2,7 +2,7 @@
 title: iBeacon
 author: ytbryan
 layout: page
-permalink: /hire-me
+permalink: /ibeacon
 hefo_before:
   - 0
 hefo_after:
