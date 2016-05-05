@@ -6,6 +6,7 @@ hefo_before:
   - 0
 hefo_after:
   - 0
+permalink: /work
 ---
 &nbsp;
 

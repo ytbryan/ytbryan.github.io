@@ -3,6 +3,8 @@ title: 'Linkedout &#8211; your private data in public'
 author: ytbryan
 layout: post
 permalink: /linkedout-your-private-data-in-public/
+categories: work startup uncategorized
+tags:
 hefo_before:
   - 0
 hefo_after:

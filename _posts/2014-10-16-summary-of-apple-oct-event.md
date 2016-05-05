@@ -3,6 +3,8 @@ title: Summary of Apple Oct Event 
 author: ytbryan
 layout: post
 permalink: /summary-of-apple-oct-event/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 3124073263
 ---

@@ -3,28 +3,24 @@ layout: default
 ---
 
 <div class="home">
-
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li class="each-post">
-        <span class="post-meta">{{# post.date | date: "%b %-d, %Y" }}</span>
-
-          <span class="front_title">
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a>
+        <span class="front_title">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a>
             {% for category in post.categories %}
-              <code class="tag">
+              <code class="category">
                 {{ category }}
               </code>
             {% endfor %}
 
-          </span>
-
-
-
+            {% for tag in post.tags %}
+              <code class="tag">
+                {{ tag }}
+              </code>
+            {% endfor %}
         </span>
       </li>
-
     {% endfor %}
   </ul>
-
 </div>

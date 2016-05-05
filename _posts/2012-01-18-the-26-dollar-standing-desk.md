@@ -3,6 +3,8 @@ title: The $26 dollar Standing Desk
 author: ytbryan
 layout: post
 permalink: /the-26-dollar-standing-desk/
+categories: work startup uncategorized
+tags:
 geo_public:
   - 0
 dsq_thread_id:

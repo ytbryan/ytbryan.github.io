@@ -3,6 +3,8 @@ title: Finding programmer
 author: ytbryan
 layout: post
 permalink: /finding-programmer/
+categories: work startup uncategorized
+tags:
 hefo_before:
   - 0
 hefo_after:

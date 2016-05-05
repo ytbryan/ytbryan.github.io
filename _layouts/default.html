@@ -1,20 +1,29 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
-
     {% include header.html %}
-
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
+
+      <div class="wrapper">
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">← Older</a>
+          {% else %}
+          {% endif %}
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Newer →</a>
+          {% else %}
+          {% endif %}
+        </div>
+      </div>
+
     </div>
 
     {% include footer.html %}
 
   </body>
-
 </html>

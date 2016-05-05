@@ -3,6 +3,8 @@ title: Undisrupted hours of work
 author: ytbryan
 layout: post
 permalink: /undisrupted-hours-of-work/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 2285992898
 ---

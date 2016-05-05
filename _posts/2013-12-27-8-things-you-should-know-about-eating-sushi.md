@@ -3,6 +3,9 @@ title: 8 things you should know about eating Sushi
 author: ytbryan
 layout: post
 permalink: /8-things-you-should-know-about-eating-sushi/
+categories: work startup uncategorized
+tags:
+
 hefo_before:
   - 0
 hefo_after:

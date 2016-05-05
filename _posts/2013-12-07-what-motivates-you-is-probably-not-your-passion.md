@@ -3,6 +3,8 @@ title: What motivates you is probably not your passion.
 author: ytbryan
 layout: post
 permalink: /what-motivates-you-is-probably-not-your-passion/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 2133054899
 ---

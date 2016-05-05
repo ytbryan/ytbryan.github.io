@@ -3,6 +3,8 @@ title: Sending email with fewer steps
 author: ytbryan
 layout: post
 permalink: /sending-email-to-yourself/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 2500172289
 ---

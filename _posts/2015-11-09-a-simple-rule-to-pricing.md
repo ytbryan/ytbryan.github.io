@@ -3,6 +3,8 @@ title: A simple rule to Pricing
 author: ytbryan
 layout: post
 permalink: /a-simple-rule-to-pricing/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 4307215851
 ---

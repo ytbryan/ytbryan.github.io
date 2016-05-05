@@ -16,6 +16,10 @@ twitter_username: ytbryan
 github_username:  ytbryan
 facebook_username:  bryanlim
 stackoverflow_usersname: ytbryan
-
 # Build settings
 markdown: kramdown
+paginate: 7
+paginate_path: "/page/:num"
+gems:
+ - jekyll-coffeescript
+ - jekyll-paginate

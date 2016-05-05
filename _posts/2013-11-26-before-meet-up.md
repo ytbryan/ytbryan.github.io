@@ -3,6 +3,8 @@ title: Before meet up
 author: ytbryan
 layout: post
 permalink: /before-meet-up/
+categories: work startup uncategorized
+tags:
 hefo_before:
   - 0
 hefo_after:

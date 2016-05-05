@@ -3,10 +3,12 @@ title: 'Interview with Meiwin Fu &#8211; Creator of Clara'
 author: ytbryan
 layout: post
 permalink: /interview-with-meiwin-creator-of-clara/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 2291695534
 ---
-Update: Meiwin&#8217;s first casual arcade game &#8211; &#8220;Pick a Pair&#8221; is out. [Download here and try][1]. 
+Update: Meiwin&#8217;s first casual arcade game &#8211; &#8220;Pick a Pair&#8221; is out. [Download here and try][1].
 
 In this interview, I write to [Meiwin Fu][2] about his latest project &#8211; Clara, Personal Finance Tracker. You can get Clara at app store [here][3].
 

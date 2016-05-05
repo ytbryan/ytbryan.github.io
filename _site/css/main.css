@@ -150,9 +150,20 @@ pre {
 span.front_title {
   display: inline; }
 
+code.category {
+  font-style: italic;
+  display: inline;
+  margin-left: 2px;
+  margin-right: 2px;
+  font-size: 11px;
+  color: #fff;
+  background-color: #90C3D4; }
+
 code.tag {
   display: inline;
-  font-size: 11px; }
+  font-size: 11px;
+  margin-left: 2px;
+  margin-right: 2px; }
 
 .each-post {
   border-bottom: 1px solid #dddddd; }
@@ -298,7 +309,7 @@ code.tag {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 30px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {

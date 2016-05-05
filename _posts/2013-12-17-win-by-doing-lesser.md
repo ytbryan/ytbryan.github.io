@@ -3,6 +3,8 @@ title: Win by doing lesser
 author: ytbryan
 layout: post
 permalink: /win-by-doing-lesser/
+categories: work startup uncategorized
+tags:
 hefo_before:
   - 0
 hefo_after:

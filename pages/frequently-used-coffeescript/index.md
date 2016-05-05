@@ -2,6 +2,7 @@
 title: Frequently used coffeescript
 author: ytbryan
 layout: page
+permalink: /frequently-used-coffeescript
 ---
 <pre class="lang:default decode:true">$ -&gt;
   console.log("DOM is ready")</pre>
@@ -15,39 +16,39 @@ layout: page
   console.log("delegated button click!")
 </pre>
 
-<pre rel="CoffeeScript" class="language-javascript">$.ajax 
- url: "some.html" 
- dataType: "html" 
- error: (jqXHR, textStatus, errorThrown) -&gt; 
-  $('body').append "AJAX Error: #{textStatus}" 
-success: (data, textStatus, jqXHR) -&gt; 
+<pre rel="CoffeeScript" class="language-javascript">$.ajax
+ url: "some.html"
+ dataType: "html"
+ error: (jqXHR, textStatus, errorThrown) -&gt;
+  $('body').append "AJAX Error: #{textStatus}"
+success: (data, textStatus, jqXHR) -&gt;
   $('body').append "Successful AJAX call: #{data}"</pre>
 
-<pre class="lang:default decode:true">$.ajax 
-url: "some.html" 
-dataType: "html" 
-error: (jqXHR, 
-textStatus, errorThrown) -&gt; 
-  $('body').append "AJAX Error: #{textStatus}" 
-success: (data, textStatus, jqXHR) -&gt; 
+<pre class="lang:default decode:true">$.ajax
+url: "some.html"
+dataType: "html"
+error: (jqXHR,
+textStatus, errorThrown) -&gt;
+  $('body').append "AJAX Error: #{textStatus}"
+success: (data, textStatus, jqXHR) -&gt;
   $('body').append "Successful AJAX call: #{data}"
 
 </pre>
 
-<pre class="lang:default decode:true  ">div.animate 
- color: red 2000 -&gt; 
+<pre class="lang:default decode:true  ">div.animate
+ color: red 2000 -&gt;
  doSomething()
 
 </pre>
 
-<pre class="lang:default decode:true">div.animate {width: 200}, 2000 
+<pre class="lang:default decode:true">div.animate {width: 200}, 2000
 div.animate width: 200 height: 200 2000
 
 </pre>
 
-<pre class="lang:default decode:true">$("input") 
-.val("") 
-.css 'z-index': 5 
+<pre class="lang:default decode:true">$("input")
+.val("")
+.css 'z-index': 5
 .removeClass "fart"
 
 </pre>

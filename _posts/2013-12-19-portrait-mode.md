@@ -3,6 +3,8 @@ title: Portrait Mode
 author: ytbryan
 layout: post
 permalink: /portrait-mode/
+categories: work startup uncategorized
+tags:
 hefo_before:
   - 0
 hefo_after:

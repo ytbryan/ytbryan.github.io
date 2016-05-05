@@ -3,6 +3,8 @@ title: The $3 Macbook holder
 author: ytbryan
 layout: post
 permalink: /the-three-dollar-macbook-air-holder/
+categories: work startup uncategorized
+tags:
 geo_public:
   - 0
 hefo_before:

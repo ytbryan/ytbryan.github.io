@@ -6,13 +6,13 @@
 </description>
     <link>http://ytbryan.com/</link>
     <atom:link href="http://ytbryan.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Jan 2016 21:08:22 +0800</pubDate>
-    <lastBuildDate>Sat, 09 Jan 2016 21:08:22 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Wed, 04 May 2016 13:57:35 +0800</pubDate>
+    <lastBuildDate>Wed, 04 May 2016 13:57:35 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>The worst myth of remote work</title>
-        <description>&lt;p&gt;Oh that perfect distraction free place for remote work.&lt;/p&gt;
+        <description>&lt;p&gt;Oh that single perfect distraction free place for remote work.&lt;/p&gt;
 
 &lt;p&gt;The worst myth of remote work is that you need a different (perfect) place outside office to get the most work done, every single day.&lt;/p&gt;
 
@@ -28,6 +28,12 @@
         <guid isPermaLink="true">http://ytbryan.com/the-worst-myth-of-remote-work/</guid>
         
         
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
+        
       </item>
     
       <item>
@@ -42,6 +48,12 @@
         <link>http://ytbryan.com/a-simple-rule-to-pricing/</link>
         <guid isPermaLink="true">http://ytbryan.com/a-simple-rule-to-pricing/</guid>
         
+        
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
         
       </item>
     
@@ -63,6 +75,12 @@
         <guid isPermaLink="true">http://ytbryan.com/finding-remote-programmers/</guid>
         
         
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
+        
       </item>
     
       <item>
@@ -75,7 +93,7 @@
   &lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;
     if you still donno, FATAL: role &amp;#8220;postgres&amp;#8221; does not exist (PG::ConnectionBad) means you need to run `createuser -s -r postgres` &lt;a href=&quot;https://twitter.com/hashtag/rails?src=hash&quot;&gt;#rails&lt;/a&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     — ytbryan (@ytbryan) &lt;a href=&quot;https://twitter.com/ytbryan/status/659408235758096384&quot;&gt;October 28, 2015&lt;/a&gt;
   &lt;/p&gt;
@@ -85,7 +103,7 @@
   &lt;p&gt;
     Use &amp;amp;&amp;amp; instead of &amp;#8216;and&amp;#8217; because &amp;amp;&amp;amp; precedes &amp;#8216;and&amp;#8217;. If you want to use &amp;#8216;and&amp;#8217;, bear in mind the precedence. Same for &amp;#8216;Or&amp;#8217; with || &lt;a href=&quot;https://twitter.com/hashtag/ruby?src=hash&quot;&gt;#ruby&lt;/a&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     — ytbryan (@ytbryan) &lt;a href=&quot;https://twitter.com/ytbryan/status/667373579114147840&quot;&gt;November 19, 2015&lt;/a&gt;
   &lt;/p&gt;
@@ -95,6 +113,12 @@
         <link>http://ytbryan.com/a-list-of-rails-questions/</link>
         <guid isPermaLink="true">http://ytbryan.com/a-list-of-rails-questions/</guid>
         
+        
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
         
       </item>
     
@@ -107,6 +131,12 @@
         <link>http://ytbryan.com/how-to-build-a-minimum-viable-product-the-right-way/</link>
         <guid isPermaLink="true">http://ytbryan.com/how-to-build-a-minimum-viable-product-the-right-way/</guid>
         
+        
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
         
       </item>
     
@@ -191,21 +221,32 @@ Selling at &lt;span style=&quot;text-decoration: underline;&quot;&gt;USD$499&lt;
         <guid isPermaLink="true">http://ytbryan.com/summary-of-apple-oct-event/</guid>
         
         
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
+        
       </item>
     
       <item>
         <title>Apple Event on Oct 16th </title>
         <description>&lt;!-- iframe plugin v.4.2 wordpress.org/plugins/iframe/ --&gt;
 
-&lt;p&gt; &lt;/p&gt;
+&lt;!-- To unsubscribe, [click here][1].
 
-&lt;p&gt;To unsubscribe, &lt;a href=&quot;http://ytbryan.us2.list-manage.com/unsubscribe?u=a459ab61b8354c29625945273&amp;amp;id=ce47f2a509&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
-
+ [1]: http://ytbryan.us2.list-manage.com/unsubscribe?u=a459ab61b8354c29625945273&amp;id=ce47f2a509 --&gt;
 </description>
         <pubDate>Sun, 05 Oct 2014 00:00:00 +0800</pubDate>
         <link>http://ytbryan.com/apple/</link>
         <guid isPermaLink="true">http://ytbryan.com/apple/</guid>
         
+        
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
         
       </item>
     
@@ -224,11 +265,11 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
 – &lt;mark&gt;16 Sept&lt;/mark&gt; for iOS 8 update&lt;br /&gt;
 – &lt;mark&gt;19 Sept&lt;/mark&gt; – iPhone 6 &amp;amp; 6+ available in Singapore and other countries.&lt;/p&gt;
 
-&lt;h1 id=&quot;pay&quot;&gt;Pay&lt;/h1&gt;
-&lt;p&gt;– TouchID was created for ApplePay. The beauty of touchID is that the transaction is between you, merchant and bank. ApplePay SDK for developers.&lt;/p&gt;
+&lt;p&gt;#Pay&lt;br /&gt;
+– TouchID was created for ApplePay. The beauty of touchID is that the transaction is between you, merchant and bank. ApplePay SDK for developers.&lt;/p&gt;
 
-&lt;h1 id=&quot;watch&quot;&gt;Watch&lt;/h1&gt;
-&lt;p&gt;– You will need an iPhone to use AppleWatch.&lt;br /&gt;
+&lt;p&gt;#Watch&lt;br /&gt;
+– You will need an iPhone to use AppleWatch.&lt;br /&gt;
 – Timing is highly precise. 50ms+-.&lt;br /&gt;
 – AppleWatch can work with iPhone 5/5c onwards.&lt;br /&gt;
 – You can use AppleWatch to do ApplePay.&lt;br /&gt;
@@ -264,7 +305,7 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
   &lt;p&gt;
     If the buttons are out of reach in your new iPhone, double press home button &amp;amp; the screen will lower &lt;a href=&quot;http://t.co/LDNYP5viSe&quot;&gt;http://t.co/LDNYP5viSe&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/AppleLive?src=hash&quot;&gt;#AppleLive&lt;/a&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     — ytbryan (@ytbryan) &lt;a href=&quot;https://twitter.com/ytbryan/status/509523271004741632&quot;&gt;September 10, 2014&lt;/a&gt;
   &lt;/p&gt;
@@ -274,6 +315,12 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
         <link>http://ytbryan.com/apple_event_9_sept_2014/</link>
         <guid isPermaLink="true">http://ytbryan.com/apple_event_9_sept_2014/</guid>
         
+        
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
         
       </item>
     
@@ -286,6 +333,12 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
         <link>http://ytbryan.com/iphone6/</link>
         <guid isPermaLink="true">http://ytbryan.com/iphone6/</guid>
         
+        
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
         
       </item>
     
@@ -314,6 +367,12 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
         <link>http://ytbryan.com/best-places-to-get-work-done/</link>
         <guid isPermaLink="true">http://ytbryan.com/best-places-to-get-work-done/</guid>
         
+        
+        <category>work</category>
+        
+        <category>startup</category>
+        
+        <category>uncategorized</category>
         
       </item>
     

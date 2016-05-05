@@ -3,6 +3,8 @@ title: The most effective time to drink coffee
 author: ytbryan
 layout: post
 permalink: /the-most-effective-time-to-drink-coffee/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 2277093117
 ---

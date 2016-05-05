@@ -3,6 +3,8 @@ title: 'Interview with Launchbyte: Bryan and Chris'
 author: ytbryan
 layout: post
 permalink: /interview-with-launchbyte/
+categories: work startup uncategorized
+tags:
 hefo_before:
   - 0
 hefo_after:

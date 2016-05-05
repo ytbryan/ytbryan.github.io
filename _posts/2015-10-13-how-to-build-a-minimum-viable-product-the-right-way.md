@@ -3,6 +3,8 @@ title: How to build a minimum viable product, the right way?
 author: ytbryan
 layout: post
 permalink: /how-to-build-a-minimum-viable-product-the-right-way/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 4219588867
 ---

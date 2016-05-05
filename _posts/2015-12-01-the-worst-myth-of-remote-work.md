@@ -3,12 +3,14 @@ title: The worst myth of remote work
 author: ytbryan
 layout: post
 permalink: /the-worst-myth-of-remote-work/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 4364600415
 ---
-Oh that perfect distraction free place for remote work. 
+Oh that single perfect distraction free place for remote work.
 
-The worst myth of remote work is that you need a different (perfect) place outside office to get the most work done, every single day. 
+The worst myth of remote work is that you need a different (perfect) place outside office to get the most work done, every single day.
 
 There are several places outside of your office with few or no distractions. Like [these places. ][1]
 

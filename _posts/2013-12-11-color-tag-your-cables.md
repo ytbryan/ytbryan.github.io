@@ -3,6 +3,8 @@ title: Color-tag your cables
 author: ytbryan
 layout: post
 permalink: /color-tag-your-cables/
+categories: work startup uncategorized
+tags:
 hefo_before:
   - 0
 hefo_after:

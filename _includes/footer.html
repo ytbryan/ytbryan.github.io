@@ -1,41 +1,12 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-
-          {% for my_page in site.pages %}
-            {% if my_page.title %}
-              <li class="page-link" href="{{ my_page.url | prepend: site.baseurl }}"><a href="#">{{ my_page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
+    <ul class="contact-list">
+      {% for my_page in site.pages %}
+        {% if my_page.title and my_page.hidden != true %}
+          <li class="page-link"><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
   </div>
 
 </footer>

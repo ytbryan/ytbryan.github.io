@@ -3,6 +3,8 @@ title: Summary of Apple Event on 9 Sept 2014 
 author: ytbryan
 layout: post
 permalink: /apple_event_9_sept_2014/
+categories: work startup uncategorized
+tags:
 dsq_thread_id:
   - 3002999095
 ---
@@ -59,7 +61,7 @@ Event Video: <http://www.apple.com/live/2014-sept-event/>
   <p>
     If the buttons are out of reach in your new iPhone, double press home button & the screen will lower <a href="http://t.co/LDNYP5viSe">http://t.co/LDNYP5viSe</a> <a href="https://twitter.com/hashtag/AppleLive?src=hash">#AppleLive</a>
   </p>
-  
+
   <p>
     — ytbryan (@ytbryan) <a href="https://twitter.com/ytbryan/status/509523271004741632">September 10, 2014</a>
   </p>
