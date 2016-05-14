@@ -6,20 +6,29 @@ hidden: true
 permalink: /orbital
 ---
 
-About Bryan Lim
+Bryan Lim
 
-Bryan Lim (@ytbryan) is a Singaporean. He founded The Amazing Digital Asia in 2010 to build simple software using Ruby. He's currently consulting Changi Airport Group. He has consulted A*STAR. [His Rubygem](http://www.rubygem.org/ytbryan). [His github](http://github.com/ytbryan)
 
-Here are a list of things he is currently working on:
+Hi, I am Bryan Lim. I am currently running a singapore-based and small software firm called The Amazing Digital Asia (www.tada.asia).
 
-- The Coding Shophouse Course
-- Making Software with Ruby
-- TADA consulting
-- Open source projects:
-- weekend projects
-- everywidget
-- goodappointment
-- shopping
-- tomyself
+I do `ruby`, `rails`, `iOS` and basically make custom and enterprise software for small and medium companies.
 
-Bryan graduated from NUS with an MSBA and a Bachelor in Computing.
+Currently, I'm consulting Changi Airport Group on Business Analytics project. I consulted A*STAR i2R on social media mining. I conducted `a making software with ruby and rails` class at Georgetown with The Coding Shophouse. Ex-A*STAR, Ex-Smartbear, SOC-alumni, NOC-alumni.
+
+I have worked in Sweden, Malaysia, Singapore.
+
+Areas where I can help out:
+`ruby`, `rails`, `iOS/Objective-c/swift`, `javascript/coffeescript`
+
+Open Source:
+`aka` - http://github.com/ytbryan/aka
+`chart`- http://github.com/ytbryan/chart
+
+For full list of open source projects, check out my [github][1] and [rubygem][2]
+
+Proposal:
+Pick any of my open source project and extend it. How to get started? Send me a pull request.
+
+
+1: http://github.com/ytbryan
+2: http://rubygem.org/ytbryan/gems
