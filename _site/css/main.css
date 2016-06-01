@@ -167,9 +167,7 @@ code.tag {
 
 .each-post {
   border-bottom: 1px solid #dddddd;
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
+  padding-bottom: 15px; }
 
 .site-header {
   padding: 10px;
