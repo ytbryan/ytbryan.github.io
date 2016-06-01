@@ -1,5 +1,5 @@
 ---
-title: Frequently used coffeescript
+title: Frequently Used Coffeescript
 author: ytbryan
 layout: page
 permalink: /frequently-used-coffeescript

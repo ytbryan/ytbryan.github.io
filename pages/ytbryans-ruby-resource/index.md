@@ -1,5 +1,5 @@
 ---
-title: 'ytbryan&#8217;s ruby resource'
+title: 'My Ruby Resource'
 author: ytbryan
 layout: page
 permalink: /ruby-resource

@@ -1,5 +1,5 @@
 ---
-title: Ruby Crawling resources
+title: Ruby Crawling Resource
 author: ytbryan
 layout: page
 ---
