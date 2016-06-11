@@ -18,7 +18,7 @@ A  list of indispenable mac software that I have used over the years:
 - Flux https://justgetflux.com
 - Aware https://itunes.apple.com/us/app/aware/id1082170746?mt=12
 - Menu display http://displaymenu.milchimgemuesefach.de
-- Quickcast http://quickcast.io
+- Quickcast [http://quickcast.io](http://quickcast.io)
 - Transmission https://www.transmissionbt.com/download/
 - GIFHY Capture https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12
 - Aegisub http://www.aegisub.org
