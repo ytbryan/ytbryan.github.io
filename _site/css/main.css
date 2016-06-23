@@ -147,6 +147,9 @@ pre {
 /**
  * Site header
  */
+iframe, object, embed {
+  max-width: 100%; }
+
 span.front_title {
   display: inline; }
 
