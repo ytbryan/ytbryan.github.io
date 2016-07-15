@@ -3,7 +3,7 @@ title: Payment
 author: ytbryan
 layout: hidden
 hidden: true
-
+permalink: /pay
 ---
 Thank you for making payment for my service.
 
