@@ -2,7 +2,7 @@
 
 title: Links
 author: ytbryan
-layout: classes
+layout: links
 hidden: true
 permalink: /links
 ---
