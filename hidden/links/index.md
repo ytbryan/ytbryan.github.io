@@ -2,11 +2,12 @@
 
 title: Links
 author: ytbryan
-layout: links
+layout: classes
 hidden: true
 permalink: /links
----
 
+
+---
 
 Recent
 
