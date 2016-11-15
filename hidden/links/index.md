@@ -4,7 +4,7 @@ title: Links
 author: ytbryan
 layout: classes
 hidden: true
-permalink: /somethingelse
+permalink: /everylinks
 
 
 ---
