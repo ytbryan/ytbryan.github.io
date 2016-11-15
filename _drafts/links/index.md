@@ -3,6 +3,13 @@ title: links
 author: ytbryan
 layout: page
 ---
+
+Software business
+
+http://chrismm.com/blog/project-delays-why-software-estimates/
+
+
+
 [rails console useful tips][1]
 
 &nbsp;
