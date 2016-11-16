@@ -22,3 +22,7 @@ Some important links to important topics
 Codes
 
 - Gist []()
+
+
+Reclaim your time
+- Wastenotime [link](http://www.bumblebeesystems.com/wastenotime/)
