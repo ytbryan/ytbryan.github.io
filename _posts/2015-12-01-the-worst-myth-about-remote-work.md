@@ -1,8 +1,8 @@
 ---
-title: The worst myth of remote work
+title: The worst myth about remote work
 author: ytbryan
 layout: post
-permalink: /the-worst-myth-of-remote-work/
+permalink: /the-worst-myth-about-remote-work/
 categories: work startup uncategorized
 tags:
 dsq_thread_id:
