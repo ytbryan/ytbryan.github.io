@@ -17,12 +17,6 @@ github_username:  ytbryan
 facebook_username:  bryanlim
 stackoverflow_usersname: ytbryan
 
-#analytics
-google_analytics: ""
-clicky: ""
-
-
-
 # Build settings
 markdown: kramdown
 paginate: 7
