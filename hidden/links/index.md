@@ -40,3 +40,7 @@ Getting Started with making software using ruby
 
 Useful Ruby Resources
 - Understanding O Notation with simple explanation [[link]](http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/?utm_source=rubyweekly&utm_medium=email)
+
+
+- Creating embedable javascript [[link]](http://blog.swirrl.com/articles/creating-asynchronous-embeddable-javascript-widgets/) 
+- Reusable dashboards [[link]](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
