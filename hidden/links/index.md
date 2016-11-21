@@ -42,3 +42,18 @@ Golang Resources
 Payment Resources
 - Pay me $500 for transport fee [[link]](https://paypal.me/tadapay/500)
 - Pay me $100 for simple advice [[link]](https://paypal.me/tadapay/100)
+
+
+
+Swift Resources
+- swift server by IBM https://github.com/ibm-swift/kitura
+
+
+
+Electrons Resources
+- Photon is a electron UI components http://photonkit.com
+
+
+
+Javascript Resources
+- Drag and drop made easy https://github.com/bevacqua/dragula
