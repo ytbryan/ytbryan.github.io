@@ -22,20 +22,24 @@ Codes
 - Gist [[link]]()
 
 Reclaim your time
+
 - Wastenotime [[link]](http://www.bumblebeesystems.com/wastenotime/)
 
 Getting Started with making software using ruby
+
 - github [[link]](http://github.com)
 - stackoverflow [[link]](http://stackoverflow.com)
 - heroku [[link]](http://heroku.com)
 
 Useful Ruby Resources
+
 - Understanding O Notation with simple explanation [[link]](http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/?utm_source=rubyweekly&utm_medium=email)
 - Creating embedable javascript [[link]](http://blog.swirrl.com/articles/creating-asynchronous-embeddable-javascript-widgets/)
 - Reusable dashboards [[link]](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
 
 
 Golang Resources
+
 - glide, the package manager [[link]](https://github.com/Masterminds/glide)
 
 
@@ -46,14 +50,17 @@ Payment Resources
 
 
 Swift Resources
-- swift server by IBM https://github.com/ibm-swift/kitura
+
+- swift server by IBM [[link]](https://github.com/ibm-swift/kitura) 
 
 
 
 Electrons Resources
-- Photon is a electron UI components http://photonkit.com
+
+- Photon is a electron UI components [[link]](http://photonkit.com)
 
 
 
 Javascript Resources
-- Drag and drop made easy https://github.com/bevacqua/dragula
+
+- Drag and drop made easy [[link]]( https://github.com/bevacqua/dragula)
