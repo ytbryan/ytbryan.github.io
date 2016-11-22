@@ -18,7 +18,7 @@ facebook_username:  bryanlim
 stackoverflow_usersname: ytbryan
 
 clicky:
-  id: 100784720
+  trackingid: 100784720
 
 # Build settings
 markdown: kramdown
