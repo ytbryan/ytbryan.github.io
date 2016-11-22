@@ -14,7 +14,7 @@ Recent
 - Prototyping using invision [[link]](https://www.invisionapp.com)
 - Check out technologies using builtwith.com [[link]](https://builtwith.com)
 - Creating lovable, Usable, Testable products [[link]]( http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
-- Minimal Viable Product [[link]](https://blog.fastmonkeys.com/2014/06/18/minimum-viable-product-your-ultimate-guide-to-mvp-great-examples/) 
+- Minimal Viable Product [[link]](https://blog.fastmonkeys.com/2014/06/18/minimum-viable-product-your-ultimate-guide-to-mvp-great-examples/)
 
 Some important links to important topics
 
@@ -68,4 +68,5 @@ Javascript Resources
 Financial Startup - things that I don't understand and don't agree
 - Understanding How Dilution Affects You at a Startup [[link]](https://bothsidesofthetable.com/understanding-how-dilution-affects-you-at-a-startup-4fb4cd29ad5c#.ykrxorneb)
 
--
+Writing
+- Basic writing prose [[link]](http://www.hu.mtu.edu/~cwaddell/Basic_Prose_Style.html) 
