@@ -1,13 +1,11 @@
 ---
 
-title: Getting Started by installing 7 tools
+title: Install these tools
 author: ytbryan
 layout: classes
 hidden: true
-permalink: /getstarted
+permalink: /class/requirement
 ---
-
-This article will get you to install the software needed for this class
 
 ### Manual Installation
 > IMPORTANT: Do these first
