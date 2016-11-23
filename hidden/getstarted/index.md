@@ -4,7 +4,7 @@ title: Getting Started by installing 7 tools
 author: ytbryan
 layout: classes
 hidden: true
-permalink: /getstarted
+permalink: /class/getstarted
 ---
 
 This article will get you to install the software needed for this class

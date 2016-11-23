@@ -11,63 +11,37 @@ permalink: /class/requirement
 > IMPORTANT: Do these first
 
 - Brew
-- Git
-- Rbenv
-- Ruby
-- Ruby on Rails
-
-### Software Installation
-
-- Atom Editor
-- Sourcetree
-- Heroku Toolkit
-
-- Atom Editor
-  - This is fairly simple. Download the software at [[https://atom.io]](https://atom.io) and follow the instruction.
-- Brew
   - open Terminal
-  - type
+  - copy and paste the below code on terminal. Then, press enter.
+
   `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-### 3. Git
+- Git
+  - on the Terminal, type `brew install git`
 
-> Git is an open-source tool  
+- Rbenv
+  - on the Terminal, type `brew install rbenv`
 
-- on the Terminal, type `brew install git`
+- Ruby
+  - on the Terminal, type `rbenv install 2.3.3`
 
+- Ruby on Rails
+  - on the Terminal, type `gem install rails`
 
-### 4. Rbenv
+---
 
-> Rbenv is an open-source tool to help to manage different versions of Ruby, the programming language.
+### Software Installation
+> IMPORTANT: Do manual Installation first
 
-### 5. Ruby
+Go to each website. Download and install the software by following its instruction.
+- Atom Editor [[https://atom.io]](https://atom.io)
+- Sourcetree [[https://www.sourcetreeapp.com]](https://www.sourcetreeapp.com)
+- Heroku Toolkit [[https://devcenter.heroku.com/articles/heroku-command-line]](https://devcenter.heroku.com/articles/heroku-command-line)
 
-> Ruby is the open-source programming language that you will be writing in.
-
-- on the terminal, type `rbenv install 2.3.3`
-- This will take a while.
-
-### 6. Ruby on Rails
-
-> Ruby on Rails is an open-source web framework that helps you to make web application.  
-
-- on the terminal, type `gem install rails`
-- This will take a while.
-
-### 7. Heroku Toolkit
-
-> Heroku toolkit is a tool by heroku to help you with the heroku services.
-
-- go to this website [2], and under OS X, download hte installer.
-- follow the instruction.
+---
 
 ### Sign up for these services if you have not done so
 
-- Github
-- Stackoverflow
-- Heroku
-
-
-
-
-- [2] https://devcenter.heroku.com/articles/heroku-command-line
+- Github  [[http://github.com]](http://github.com)
+- Stackoverflow [[http://stackoverflow.com]](http://stackoverflow.com)
+- Heroku [[https://www.heroku.com]](https://www.heroku.com)
