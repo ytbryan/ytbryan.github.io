@@ -1,3 +1,12 @@
+
+#more_older_post {
+  color: $more_older_post;
+}
+
+#more_newer_post {
+  color: $more_newer_post;
+}
+
 /**
  * Site header
  */
@@ -237,9 +246,10 @@
 }
 
 .post-title {
-    font-size: 30px;
+    font-size: 34px;
     letter-spacing: -1px;
     line-height: 1;
+    font-weight: 300;
 
     @include media-query($on-laptop) {
         font-size: 36px;

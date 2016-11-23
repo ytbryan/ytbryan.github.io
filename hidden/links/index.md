@@ -2,8 +2,9 @@
 title: Links
 author: ytbryan
 layout: two_columns
+hidden: true
 permalink: /everylinks
-left: | 
+left: |
 
   ###Recent
 

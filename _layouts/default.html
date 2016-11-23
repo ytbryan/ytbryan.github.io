@@ -11,11 +11,11 @@
       <div class="wrapper">
         <div class="pagination">
           {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path }}" class="previous">← Older</a>
+            <a id="more_older_post" href="{{ paginator.previous_page_path }}" class="previous">← Older</a>
           {% else %}
           {% endif %}
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}" class="next">Newer →</a>
+            <a id="more_newer_post" href="{{ paginator.next_page_path }}" class="next">Newer →</a>
           {% else %}
           {% endif %}
         </div>

@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -60,7 +60,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-weight: 200; }
 
 /**
  * Links
@@ -112,16 +112,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(900px - (30px * 2));
+  max-width: calc(900px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(900px - (30px));
+      max-width: calc(900px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -143,6 +143,12 @@ pre {
   vertical-align: middle; }
   .icon > svg path {
     fill: #828282; }
+
+#more_older_post {
+  color: #d1d1d1; }
+
+#more_newer_post {
+  color: #d1d1d1; }
 
 /**
  * Site header
@@ -313,9 +319,10 @@ code.tag {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 30px;
+  font-size: 34px;
   letter-spacing: -1px;
-  line-height: 1; }
+  line-height: 1;
+  font-weight: 300; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
