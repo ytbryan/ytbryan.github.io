@@ -36,6 +36,7 @@ permalink: /class/getstarted
 > IMPORTANT: Do manual Installation first
 
 Go to each website. Download and install the software by following its instruction.
+
 - Atom Editor [[https://atom.io]](https://atom.io)
 - Sourcetree [[https://www.sourcetreeapp.com]](https://www.sourcetreeapp.com)
 - Heroku Toolkit [[https://devcenter.heroku.com/articles/heroku-command-line]](https://devcenter.heroku.com/articles/heroku-command-line)
