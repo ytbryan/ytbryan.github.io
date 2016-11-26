@@ -74,5 +74,7 @@ right: |
     Writing
     - Basic writing prose [[link]](http://www.hu.mtu.edu/~cwaddell/Basic_Prose_Style.html)
 
+    Ruby Resources
+    - Building a Jekyll Gem [[link]](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475) 
 
 ---
