@@ -4,9 +4,10 @@ author: ytbryan
 layout: two_columns
 hidden: true
 permalink: /everylinks
-left: |
+   
+---
 
-  ###Recent
+  ### Recent
 
   - Job to be done [[link]](http://innovatorstoolkit.com/content/technique-1-jobs-be-done)
   - Important Metric Board [[link]](https://twitter.com/ytbryan/status/440884044146814977)
@@ -47,34 +48,36 @@ left: |
   - glide, the package manager [[link]](https://github.com/Masterminds/glide)
 
 
+   Payment Resources
 
-right: |
-
-    Payment Resources
-
-    - Pay me $500 for transport fee [[link]](https://paypal.me/tadapay/500)
-    - Pay me $100 for simple advice [[link]](https://paypal.me/tadapay/100)
+   - Pay me $500 for transport fee [[link]](https://paypal.me/tadapay/500)
+   - Pay me $100 for simple advice [[link]](https://paypal.me/tadapay/100)
 
 
-    Swift Resources
+   Swift Resources
 
-    - swift server by IBM [[link]](https://github.com/ibm-swift/kitura)
+   - swift server by IBM [[link]](https://github.com/ibm-swift/kitura)
 
-    Electrons Resources
+   Electrons Resources
 
-    - Photon is a electron UI components [[link]](http://photonkit.com)
+   - Photon is a electron UI components [[link]](http://photonkit.com)
 
-    Javascript Resources
+   Javascript Resources
 
-    - Drag and drop made easy [[link]]( https://github.com/bevacqua/dragula)
+   - Drag and drop made easy [[link]]( https://github.com/bevacqua/dragula)
 
-    Financial Startup - things that I don't understand and don't agree
-    - Understanding How Dilution Affects You at a Startup [[link]](https://bothsidesofthetable.com/understanding-how-dilution-affects-you-at-a-startup-4fb4cd29ad5c#.ykrxorneb)
+   Financial Startup - things that I don't understand and don't agree
+   - Understanding How Dilution Affects You at a Startup [[link]](https://bothsidesofthetable.com/understanding-how-dilution-affects-you-at-a-startup-4fb4cd29ad5c#.ykrxorneb)
 
-    Writing
-    - Basic writing prose [[link]](http://www.hu.mtu.edu/~cwaddell/Basic_Prose_Style.html)
+   Writing
+   - Basic writing prose [[link]](http://www.hu.mtu.edu/~cwaddell/Basic_Prose_Style.html)
 
-    Ruby Resources
-    - Building a Jekyll Gem [[link]](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475) 
+   Ruby Resources
+   - Building a Jekyll Gem [[link]](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
 
----
+   - grow by advertity [[link]](http://www.nuggetsoftruth.com/learn_to_grow_through_adversity.htm)
+   
+   ### Private Repo
+   
+   - Gemfury [[link]](https://manage.fury.io/dashboard/ytbryan/#_ga=1.68700178.268423103.1480409719)
+   - Travis  [[link]](https://travis-ci.org/profile/ytbryan)
