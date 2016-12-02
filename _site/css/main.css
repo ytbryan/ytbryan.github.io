@@ -21,6 +21,9 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
+body.div.p {
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */

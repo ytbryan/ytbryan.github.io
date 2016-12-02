@@ -25,6 +25,9 @@ body {
     font-kerning: normal;
 }
 
+body.div.p {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family-paragraph;
+}
 
 
 /**
