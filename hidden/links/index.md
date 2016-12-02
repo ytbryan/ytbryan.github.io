@@ -46,7 +46,7 @@ permalink: /everylinks
   Golang Resources
 
   - glide, the package manager [[link]](https://github.com/Masterminds/glide)
-
+  - Tutorial gorilla rest api [[link]]( http://www.giantflyingsaucer.com/blog/?p=5635)
 
    Payment Resources
 
