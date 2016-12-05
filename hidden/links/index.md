@@ -4,7 +4,7 @@ author: ytbryan
 layout: two_columns
 hidden: true
 permalink: /everylinks
-   
+
 ---
 
   ### Recent
@@ -76,8 +76,20 @@ permalink: /everylinks
    - Building a Jekyll Gem [[link]](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
 
    - grow by advertity [[link]](http://www.nuggetsoftruth.com/learn_to_grow_through_adversity.htm)
-   
+
    ### Private Repo
-   
+
    - Gemfury [[link]](https://manage.fury.io/dashboard/ytbryan/#_ga=1.68700178.268423103.1480409719)
    - Travis  [[link]](https://travis-ci.org/profile/ytbryan)
+
+   ### Rails Api
+   - JWT with a front-end rails  [[link]](http://zacstewart.com/2015/05/14/using-json-web-tokens-to-authenticate-javascript-front-ends-on-rails.html)
+   - Pundit [[link]](https://github.com/elabs/pundit)
+   - Stateless Rails Api using knock [[link]](http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/)
+   - multitenancy rails with pundit [[link]]( http://andrewmarkle.com/2016/04/06/multitenancy-with-pundit.html)
+
+   ### New
+
+   - JWT - [[link]](https://jwt.io/introduction/)
+   - hydration - [[link]](https://glebbahmutov.com/hydrate-vue-todo/)
+   - https://glebbahmutov.com

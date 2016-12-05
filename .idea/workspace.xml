@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a030d2eb-b437-4187-9409-07daa6a63219" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/8-things-you-should-know-about-eating-sushi/index.html" afterPath="$PROJECT_DIR$/_site/8-things-you-should-know-about-eating-sushi/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/a-list-of-rails-questions/index.html" afterPath="$PROJECT_DIR$/_site/a-list-of-rails-questions/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/a-simple-rule-to-pricing/index.html" afterPath="$PROJECT_DIR$/_site/a-simple-rule-to-pricing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/agreement.html" afterPath="$PROJECT_DIR$/_site/agreement.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/apple/index.html" afterPath="$PROJECT_DIR$/_site/apple/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/apple_event_9_sept_2014/index.html" afterPath="$PROJECT_DIR$/_site/apple_event_9_sept_2014/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/appointment.html" afterPath="$PROJECT_DIR$/_site/appointment.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/before-meet-up/index.html" afterPath="$PROJECT_DIR$/_site/before-meet-up/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/best-places-to-get-work-done/index.html" afterPath="$PROJECT_DIR$/_site/best-places-to-get-work-done/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/class/getstarted.html" afterPath="$PROJECT_DIR$/_site/class/getstarted.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/class/requirement.html" afterPath="$PROJECT_DIR$/_site/class/requirement.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/classes.html" afterPath="$PROJECT_DIR$/_site/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/color-tag-your-cables/index.html" afterPath="$PROJECT_DIR$/_site/color-tag-your-cables/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/death-and-time/index.html" afterPath="$PROJECT_DIR$/_site/death-and-time/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/do/index.html" afterPath="$PROJECT_DIR$/_site/do/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/everylinks.html" afterPath="$PROJECT_DIR$/_site/everylinks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/finding-programmer/index.html" afterPath="$PROJECT_DIR$/_site/finding-programmer/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/finding-remote-programmers/index.html" afterPath="$PROJECT_DIR$/_site/finding-remote-programmers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/frequently-used-coffeescript.html" afterPath="$PROJECT_DIR$/_site/frequently-used-coffeescript.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/hello-world/index.html" afterPath="$PROJECT_DIR$/_site/hello-world/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/hidden/myoldreader/index.html" afterPath="$PROJECT_DIR$/_site/hidden/myoldreader/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/hire-me.html" afterPath="$PROJECT_DIR$/_site/hire-me.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/how-to-build-a-minimum-viable-product-the-right-way/index.html" afterPath="$PROJECT_DIR$/_site/how-to-build-a-minimum-viable-product-the-right-way/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/ibeacon.html" afterPath="$PROJECT_DIR$/_site/ibeacon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/interview-with-launchbyte/index.html" afterPath="$PROJECT_DIR$/_site/interview-with-launchbyte/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/interview-with-meiwin-creator-of-clara/index.html" afterPath="$PROJECT_DIR$/_site/interview-with-meiwin-creator-of-clara/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/iphone6/index.html" afterPath="$PROJECT_DIR$/_site/iphone6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/linkedout-your-private-data-in-public/index.html" afterPath="$PROJECT_DIR$/_site/linkedout-your-private-data-in-public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/mac.html" afterPath="$PROJECT_DIR$/_site/mac.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/making-a-product-from-scratch/index.html" afterPath="$PROJECT_DIR$/_site/making-a-product-from-scratch/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/orbital.html" afterPath="$PROJECT_DIR$/_site/orbital.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page/2/index.html" afterPath="$PROJECT_DIR$/_site/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page/3/index.html" afterPath="$PROJECT_DIR$/_site/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page/4/index.html" afterPath="$PROJECT_DIR$/_site/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page/5/index.html" afterPath="$PROJECT_DIR$/_site/page/5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages/about/index.html" afterPath="$PROJECT_DIR$/_site/pages/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages/ruby-crawling/index.html" afterPath="$PROJECT_DIR$/_site/pages/ruby-crawling/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pay.html" afterPath="$PROJECT_DIR$/_site/pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/portrait-mode/index.html" afterPath="$PROJECT_DIR$/_site/portrait-mode/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/readfirst.html" afterPath="$PROJECT_DIR$/_site/readfirst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/resume.html" afterPath="$PROJECT_DIR$/_site/resume.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rethink.html" afterPath="$PROJECT_DIR$/_site/rethink.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/reviews/index.html" afterPath="$PROJECT_DIR$/_site/reviews/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/ruby-resource.html" afterPath="$PROJECT_DIR$/_site/ruby-resource.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sending-email-to-yourself/index.html" afterPath="$PROJECT_DIR$/_site/sending-email-to-yourself/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/startups.html" afterPath="$PROJECT_DIR$/_site/startups.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summary-of-apple-oct-event/index.html" afterPath="$PROJECT_DIR$/_site/summary-of-apple-oct-event/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-26-dollar-standing-desk/index.html" afterPath="$PROJECT_DIR$/_site/the-26-dollar-standing-desk/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-most-effective-time-to-drink-coffee/index.html" afterPath="$PROJECT_DIR$/_site/the-most-effective-time-to-drink-coffee/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-three-dollar-macbook-air-holder/index.html" afterPath="$PROJECT_DIR$/_site/the-three-dollar-macbook-air-holder/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-worst-myth-about-remote-work/index.html" afterPath="$PROJECT_DIR$/_site/the-worst-myth-about-remote-work/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/undisrupted-hours-of-work/index.html" afterPath="$PROJECT_DIR$/_site/undisrupted-hours-of-work/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/what-motivates-you-is-probably-not-your-passion/index.html" afterPath="$PROJECT_DIR$/_site/what-motivates-you-is-probably-not-your-passion/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/win-by-doing-lesser/index.html" afterPath="$PROJECT_DIR$/_site/win-by-doing-lesser/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work.html" afterPath="$PROJECT_DIR$/_site/work.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/writer/index.html" afterPath="$PROJECT_DIR$/_site/writer/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hidden/agreement/index.md" afterPath="$PROJECT_DIR$/hidden/agreement/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hidden/links/index.md" afterPath="$PROJECT_DIR$/hidden/links/index.md" />
-    </list>
+    <list default="true" id="a030d2eb-b437-4187-9409-07daa6a63219" name="Default" comment="" />
     <ignored path="ytbryandotcom.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -112,7 +47,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
+    <option name="x" value="554" />
+    <option name="y" value="459" />
     <option name="width" value="1366" />
     <option name="height" value="764" />
   </component>
@@ -386,14 +322,15 @@
       <workItem from="1480558137858" duration="340000" />
       <workItem from="1480558652477" duration="552000" />
       <workItem from="1480696462297" duration="677000" />
+      <workItem from="1480908552269" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5609000" />
+    <option name="totallyTimeSpent" value="6207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="0" width="1366" height="764" extended-state="0" />
+    <frame x="554" y="459" width="1366" height="764" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -467,7 +404,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="245">
             <caret line="48" column="2" lean-forward="false" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -478,7 +414,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="420">
             <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>

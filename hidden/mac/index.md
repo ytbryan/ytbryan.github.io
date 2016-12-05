@@ -9,6 +9,7 @@ permalink: /mac
 
 A  list of indispenable mac software that I have used over the years:
 
+- Sitesucker [http://ricks-apps.com/osx/sitesucker/index.html](http://ricks-apps.com/osx/sitesucker/index.html)
 - DiffMerge [http://www.sourcegear.com/diffmerge/](http://www.sourcegear.com/diffmerge/)
 - SonoAir [https://t.co/UEMDv2XTy4](https://t.co/UEMDv2XTy4)
 - Atom editor [https://atom.io](https://atom.io)

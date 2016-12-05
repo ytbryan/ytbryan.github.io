@@ -3,7 +3,7 @@ title: startups & advice
 author: ytbryan
 layout: hidden
 hidden: true
-permalink: /startups
+permalink: /
 ---
 
 Startups & Advices
