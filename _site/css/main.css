@@ -69,10 +69,9 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #007998;
-  text-decoration: none; }
+  color: #4C6169; }
   a:visited {
-    color: #003c4c; }
+    color: #2c383d; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -146,6 +145,11 @@ pre {
   vertical-align: middle; }
   .icon > svg path {
     fill: #828282; }
+
+#title {
+  color: #4C6169;
+  font-size: 50px;
+  font-weight: 400; }
 
 #more_older_post {
   color: #6B6B6B; }
