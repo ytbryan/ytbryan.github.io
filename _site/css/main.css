@@ -68,11 +68,18 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-span.front_title a.post-link {
-  color: #4C6169; }
+div.post-content p a {
+  color: #20b;
+  font-weight: 400; }
+  div.post-content p a:visited {
+    color: #606; }
+  div.post-content p a:hover {
+    color: #111;
+    text-decoration: underline; }
 
 a {
-  color: #4C6169; }
+  color: #4C6169;
+  font-weight: 0; }
   a:visited {
     color: #2c383d; }
   a:hover {

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+
+
+      <div class="wrapper">
+        <h1>A minute on me</h1>
+        <p>
+          I am Bryan Lim of The Amazing Digital Asia Company, a small software firm based in Singapore.
+
+          I have been a researcher, a programmer, a business analyst, a teacher, a writer, a taekwondo instructor.
+
+          This is my personal blog where I organise my thoughts and write for my personal growth.
+
+          If you wish to reach me, email me at ytbryan@gmail.com
+        </p>
+      </div>
+
+      <br>
+
+
+      <div class="wrapper">
+        <h1>Articles</h1>
+
+        {{ content }}
+      </div>
+
+
+      <div class="wrapper">
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a id="more_older_post" href="{{ paginator.previous_page_path }}" class="previous">← Older</a>
+          {% else %}
+          {% endif %}
+          {% if paginator.next_page %}
+            <a id="more_newer_post" href="{{ paginator.next_page_path }}" class="next">Newer →</a>
+          {% else %}
+          {% endif %}
+        </div>
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+</html>
