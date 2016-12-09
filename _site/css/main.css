@@ -68,6 +68,9 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
+span.front_title a.post-link {
+  color: #4C6169; }
+
 a {
   color: #4C6169; }
   a:visited {
