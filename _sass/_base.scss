@@ -96,16 +96,24 @@ h1, h2, h3, h4, h5, h6 {
 
 
 // The front page links
-span.front_title a.post-link {
-  color: $darker-brand-color;
-  font-weight: 0;
+div.post-content p a {
+  color: #20b;
+  font-weight: 400;
 
+  &:visited {
+      color: #606;
+  }
+
+  &:hover {
+      color: $text-color;
+      text-decoration:underline;
+  }
 }
 
 a {
     color: $darker-brand-color;
     // text-decoration: none;
-    font-weight: 400;
+    font-weight: 0;
     &:visited {
         color: darken($darker-brand-color, 15%);
     }
