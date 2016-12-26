@@ -7,6 +7,11 @@ permalink: /everylinks
 
 ---
 
+
+
+
+
+
   ### Recent
 
   - Job to be done [[link]](http://innovatorstoolkit.com/content/technique-1-jobs-be-done)
@@ -21,20 +26,6 @@ permalink: /everylinks
 
   - Tests - do not write more than necessary. Unit testing is a waste of time. [[link]](/docs/testing.pdf)
   - Customers [[link]](/docs/customers.jpg)
-
-  Codes
-
-  - Gist [[link]]()
-
-  Reclaim your time
-
-  - Wastenotime [[link]](http://www.bumblebeesystems.com/wastenotime/)
-
-  Getting Started with making software using ruby
-
-  - github [[link]](http://github.com)
-  - stackoverflow [[link]](http://stackoverflow.com)
-  - heroku [[link]](http://heroku.com)
 
   Useful Ruby Resources
 
@@ -77,10 +68,6 @@ permalink: /everylinks
 
    - grow by advertity [[link]](http://www.nuggetsoftruth.com/learn_to_grow_through_adversity.htm)
 
-   ### Private Repo
-
-   - Gemfury [[link]](https://manage.fury.io/dashboard/ytbryan/#_ga=1.68700178.268423103.1480409719)
-   - Travis  [[link]](https://travis-ci.org/profile/ytbryan)
 
    ### Rails Api
    - JWT with a front-end rails  [[link]](http://zacstewart.com/2015/05/14/using-json-web-tokens-to-authenticate-javascript-front-ends-on-rails.html)
@@ -89,9 +76,6 @@ permalink: /everylinks
    - multitenancy rails with pundit [[link]]( http://andrewmarkle.com/2016/04/06/multitenancy-with-pundit.html)
 
 
-   ### AB Testing on Rails
-   - Using optimizely https://rubygems.org/gems/optimizely-sdk/versions/1.0.0
-   -
    ### New
 
    - JWT - [[link]](https://jwt.io/introduction/)

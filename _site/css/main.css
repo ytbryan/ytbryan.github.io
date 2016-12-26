@@ -156,6 +156,30 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+.redcontainer {
+  width: 100%;
+  border: 1px solid #d1d1d1;
+  border-radius: 5px;
+  font-weight: 200;
+  margin-bottom: 10px; }
+
+.redcontainer h1 {
+  padding: 8px;
+  background: red;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline; }
+
+.redcontainer li a:visited {
+  color: #F2495C; }
+
+.redcontainer li a:active {
+  color: black; }
+
+.redcontainer li a:hover {
+  background-color: red;
+  color: white; }
+
 #title {
   color: #4C6169;
   font-size: 50px;
