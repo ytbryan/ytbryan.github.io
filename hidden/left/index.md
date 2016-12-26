@@ -100,3 +100,14 @@ permalink: /everylinks
 
    # office gossip
    - https://hbr.org/2016/11/the-antidote-to-office-gossip
+
+
+   # how to treat a woman
+   - http://thoughtcatalog.com/holly-riordan/2016/12/50-intimate-ways-women-want-to-be-touched-that-have-nothing-to-do-with-sex/
+
+   # R packages
+   - http://blog.yhat.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
+
+   # webpack
+   - https://webpack.github.io/docs/list-of-plugins.html#minchunksizeplugin
+   - https://webpack.github.io/docs/code-splitting.html#examples
