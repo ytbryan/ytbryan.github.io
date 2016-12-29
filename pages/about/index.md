@@ -20,6 +20,6 @@ Thanks for reading!
  [3]: mailto:bryan@tada.asia
  [4]: /hire-me
  [1]: http://github.com/ytbryan
- [2]: http://stackoverflow.com/ytbryan
+ [2]: http://stackoverflow.com/users/388280/ytbryan
  [5]: https://rubygems.org/profiles/ytbryan
  [6]: https://www.quora.com/profile/Bryan-Lim
