@@ -4,10 +4,10 @@
     <title>Bryan Lim</title>
     <description>I am the founder of The Amazing Digital Asia which was started in 2011. We do custom software and programming consulting. Currently I am staying in Singapore.
 </description>
-    <link>http://ytbryan.com/</link>
-    <atom:link href="http://ytbryan.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Dec 2016 13:52:02 +0800</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2016 13:52:02 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 30 Dec 2016 19:33:03 +0800</pubDate>
+    <lastBuildDate>Fri, 30 Dec 2016 19:33:03 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -24,8 +24,8 @@
 
 </description>
         <pubDate>Tue, 01 Dec 2015 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/the-worst-myth-about-remote-work/</link>
-        <guid isPermaLink="true">http://ytbryan.com/the-worst-myth-about-remote-work/</guid>
+        <link>http://localhost:4000/the-worst-myth-about-remote-work/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-worst-myth-about-remote-work/</guid>
         
         
         <category>work</category>
@@ -47,8 +47,8 @@
 &lt;p&gt;Adjusting your pricing by measuring and testing the willingness to pay of your customers, is a simple rule to setting a pricing. Start with how much are you, willing to pay for your own service. Adjust until you get the right willingness.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/a-simple-rule-to-pricing/</link>
-        <guid isPermaLink="true">http://ytbryan.com/a-simple-rule-to-pricing/</guid>
+        <link>http://localhost:4000/a-simple-rule-to-pricing/</link>
+        <guid isPermaLink="true">http://localhost:4000/a-simple-rule-to-pricing/</guid>
         
         
         <category>work</category>
@@ -73,8 +73,8 @@
 
 </description>
         <pubDate>Thu, 29 Oct 2015 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/finding-remote-programmers/</link>
-        <guid isPermaLink="true">http://ytbryan.com/finding-remote-programmers/</guid>
+        <link>http://localhost:4000/finding-remote-programmers/</link>
+        <guid isPermaLink="true">http://localhost:4000/finding-remote-programmers/</guid>
         
         
         <category>work</category>
@@ -112,8 +112,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Wed, 28 Oct 2015 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/a-list-of-rails-questions/</link>
-        <guid isPermaLink="true">http://ytbryan.com/a-list-of-rails-questions/</guid>
+        <link>http://localhost:4000/a-list-of-rails-questions/</link>
+        <guid isPermaLink="true">http://localhost:4000/a-list-of-rails-questions/</guid>
         
         
         <category>work</category>
@@ -130,8 +130,8 @@
 
 </description>
         <pubDate>Tue, 13 Oct 2015 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/how-to-build-a-minimum-viable-product-the-right-way/</link>
-        <guid isPermaLink="true">http://ytbryan.com/how-to-build-a-minimum-viable-product-the-right-way/</guid>
+        <link>http://localhost:4000/how-to-build-a-minimum-viable-product-the-right-way/</link>
+        <guid isPermaLink="true">http://localhost:4000/how-to-build-a-minimum-viable-product-the-right-way/</guid>
         
         
         <category>work</category>
@@ -219,8 +219,8 @@ Selling at &lt;span style=&quot;text-decoration: underline;&quot;&gt;USD$499&lt;
 
 </description>
         <pubDate>Thu, 16 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/summary-of-apple-oct-event/</link>
-        <guid isPermaLink="true">http://ytbryan.com/summary-of-apple-oct-event/</guid>
+        <link>http://localhost:4000/summary-of-apple-oct-event/</link>
+        <guid isPermaLink="true">http://localhost:4000/summary-of-apple-oct-event/</guid>
         
         
         <category>work</category>
@@ -240,8 +240,8 @@ Selling at &lt;span style=&quot;text-decoration: underline;&quot;&gt;USD$499&lt;
  [1]: http://ytbryan.us2.list-manage.com/unsubscribe?u=a459ab61b8354c29625945273&amp;id=ce47f2a509 --&gt;
 </description>
         <pubDate>Sun, 05 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/apple/</link>
-        <guid isPermaLink="true">http://ytbryan.com/apple/</guid>
+        <link>http://localhost:4000/apple/</link>
+        <guid isPermaLink="true">http://localhost:4000/apple/</guid>
         
         
         <category>work</category>
@@ -314,8 +314,8 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 09 Sep 2014 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/apple_event_9_sept_2014/</link>
-        <guid isPermaLink="true">http://ytbryan.com/apple_event_9_sept_2014/</guid>
+        <link>http://localhost:4000/apple_event_9_sept_2014/</link>
+        <guid isPermaLink="true">http://localhost:4000/apple_event_9_sept_2014/</guid>
         
         
         <category>work</category>
@@ -332,8 +332,8 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
 
 </description>
         <pubDate>Fri, 05 Sep 2014 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/iphone6/</link>
-        <guid isPermaLink="true">http://ytbryan.com/iphone6/</guid>
+        <link>http://localhost:4000/iphone6/</link>
+        <guid isPermaLink="true">http://localhost:4000/iphone6/</guid>
         
         
         <category>work</category>
@@ -366,8 +366,8 @@ Read: &lt;a href=&quot;http://www.apple.com/iphone/compare/&quot; target=&quot;
 
 </description>
         <pubDate>Sat, 19 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://ytbryan.com/best-places-to-get-work-done/</link>
-        <guid isPermaLink="true">http://ytbryan.com/best-places-to-get-work-done/</guid>
+        <link>http://localhost:4000/best-places-to-get-work-done/</link>
+        <guid isPermaLink="true">http://localhost:4000/best-places-to-get-work-done/</guid>
         
         
         <category>work</category>

@@ -1,8 +1,25 @@
 ---
-title: 'When to switch on heroes&#8217; ability?'
+title: 'How to use vuejs & its arsenal of tools in Rails 5'
 author: ytbryan
 layout: page
+categories: ruby tutorial vuejs
 ---
-One common misuse of hero&#8217;s ability is to use it immediate after you deploy your hero. Do not do it.
 
-Use your hero when it&#8217;s health point is slightly lowered. This is because its ability can heal part of its health depending on its level. This allows your heroes to stay in the game longer, dealing damages. :)
+TLDR: use vuejs in the latest ruby on rails
+
+Addendum: With Rail 5.1, you can use webpacker to install any npm.
+
+# Installation
+
+  ```ruby
+    gem 'vuejs'
+  ```
+  bundle install
+
+# Usage and create a simple text previewer
+
+
+
+
+
+For other ruby tutorial, try to see _____ or _____ or go to the categories _______
