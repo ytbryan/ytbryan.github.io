@@ -1,7 +1,7 @@
 ---
 title: Links
 author: ytbryan
-layout: links
+layout: page
 hidden: true
 permalink: /testtest
 
