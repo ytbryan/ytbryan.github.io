@@ -1,15 +1,15 @@
 ---
-title: Another Way Academy
+title: Autistic Wonder
 author: ytbryan
 layout: default
 hidden: true
-permalink: /anotherway
+permalink: /autistic
 
 ---
 
-Another Way Programme
+Autistic Wonder Programme
 
-Another Way Programme is an online programming course designed to introduce ex-convict and juvenile delinquency & school dropout to simple software making.
+Autistic Wonder Programme is a
 
 This course is created to help these group of people, reintegrate back to the society.
 
