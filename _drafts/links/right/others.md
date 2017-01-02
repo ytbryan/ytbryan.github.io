@@ -13,3 +13,8 @@
 - [Data science interview questions](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2016/184)
 - [How tool is not the reason for failure](https://twitter.com/jessethanley/status/813904788702183425)
 - [Naming things](http://www.felienne.com/archives/3837)
+- [Teaching your kids to be awesome](http://www.businessinsider.com/how-parents-set-their-kids-up-for-success-2016-4?IR=T&r=US/#12-they-are-authoritative-rather-than-authoritarian-or-permissive-12)
+- [Merchanical Keyboard 1 used by YL] (https://www.amazon.com/dp/B00EQV0W02/ref=twister_B01IILZQN8?_encoding=UTF8&th=1)
+- [Merchanical Keyboard 2 used by PC] (http://www.pfu.fujitsu.com/hhkeyboard/)
+- [Hosting static sites on S3](http://chitrangshah.com/2014/03/10/static-blog-site-with-hexo-part-2/)
+- [Hosting ]
