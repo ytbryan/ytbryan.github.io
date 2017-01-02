@@ -13,3 +13,8 @@
 - [Data science interview questions](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2016/184)
 - [How tool is not the reason for failure](https://twitter.com/jessethanley/status/813904788702183425)
 - [Naming things](http://www.felienne.com/archives/3837)
+- [Building Instant Rapport](http://www.wsj.com/articles/how-to-build-instant-rapport-in-an-interview-1480436936?mod=e2fb)
+- [Mechanical Keyboard Switches](http://www.pcworld.com/article/242037/mechanical_keyboard_faq_pick_the_right_switch.html)
+- [yl's keyboard](https://www.amazon.com/dp/B00EQV0W02/ref=twister_B01IILZQN8?_encoding=UTF8&th=1)
+- [Pc's keyboard](http://www.pfu.fujitsu.com/hhkeyboard/)
+- [Setting up static sites using hexo on S3](http://chitrangshah.com/2014/03/10/static-blog-site-with-hexo-part-2/)
