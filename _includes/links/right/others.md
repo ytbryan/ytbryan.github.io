@@ -18,3 +18,5 @@
 - [yl's keyboard](https://www.amazon.com/dp/B00EQV0W02/ref=twister_B01IILZQN8?_encoding=UTF8&th=1)
 - [Pc's keyboard](http://www.pfu.fujitsu.com/hhkeyboard/)
 - [Setting up static sites using hexo on S3](http://chitrangshah.com/2014/03/10/static-blog-site-with-hexo-part-2/)
+- [E-invoicing in Europe](http://ec.europa.eu/internal_market/payments/docs/einvoicing/activity1-2012_09_26_en.pdf)
+- [Your engineering team is not an island](https://medium.com/scaling-teams/your-engineering-team-is-not-an-island-success-demands-a-holistic-view-of-the-business-bccd6116094b#.oooo5ive0)
