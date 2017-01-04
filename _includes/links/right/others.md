@@ -25,3 +25,4 @@
 -[NUS's Graduate Certificate for Arbitration](http://law.nus.edu.sg/cle/courses/pdfs/GCIA_FAQ_2017.pdf)
 -[Procastination](https://twitter.com/Brilliant_Ads/status/816662223523344385)
 - [Open soure keystroke visualizer](https://github.com/sdeken/keycastr)
+-  [Signingtime Signing](https://www.signingtime.com/resources/dictionary/)
