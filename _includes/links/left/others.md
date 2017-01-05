@@ -26,5 +26,6 @@
 - [Procastination](https://twitter.com/Brilliant_Ads/status/816662223523344385)
 - [Open soure keystroke visualizer](https://github.com/sdeken/keycastr)
 -  [Signingtime Signing](https://www.signingtime.com/resources/dictionary/)
-
 - [Configure jekyll to use custom plugins](http://stackoverflow.com/questions/28249255/how-do-i-configure-github-to-use-non-supported-jekyll-site-plugins/28252200#28252200)
+- [Common Mistake in Singapore Law](http://law.nus.edu.sg/sjls/articles/SJLS-Dec09-457.pdf)
+- [Singapore's contract law](http://www.singaporelaw.sg/sglaw/laws-of-singapore/commercial-law/chapter-8)

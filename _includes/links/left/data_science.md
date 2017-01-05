@@ -1,4 +1,5 @@
 # Data Science
+- [Explaining overfitting with simple terms](https://www.quora.com/What-is-an-intuitive-explanation-of-overfitting)
 - [Test/Training/Validation sets](http://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set)
 - [Random Forest example](https://www.kaggle.com/ytbryan/titanic/random-forest-benchmark-r/edit)
 - [10 types of regressions](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
