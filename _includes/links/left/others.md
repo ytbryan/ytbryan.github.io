@@ -1,5 +1,6 @@
 # Others
-
+- [2015 for 2016](https://twitter.com/ytbryan/status/680666616992956416)
+- [2017 for 2017](https://twitter.com/ytbryan/status/817289198390476800)
 - [Office Gossip Antidote](https://hbr.org/2016/11/the-antidote-to-office-gossip)
 - [Tests - do not write more than necessary. Unit testing is a waste of time.](/docs/testing.pdf)
 - [Customers](/docs/customers.jpg)
@@ -27,5 +28,4 @@
 - [Open soure keystroke visualizer](https://github.com/sdeken/keycastr)
 -  [Signingtime Signing](https://www.signingtime.com/resources/dictionary/)
 - [Configure jekyll to use custom plugins](http://stackoverflow.com/questions/28249255/how-do-i-configure-github-to-use-non-supported-jekyll-site-plugins/28252200#28252200)
-- [Common Mistake in Singapore Law](http://law.nus.edu.sg/sjls/articles/SJLS-Dec09-457.pdf)
-- [Singapore's contract law](http://www.singaporelaw.sg/sglaw/laws-of-singapore/commercial-law/chapter-8)
+- [Using ES2015 with Asset Pipeline on Ruby on Rails](http://nandovieira.com/using-es2015-with-asset-pipeline-on-ruby-on-rails)
