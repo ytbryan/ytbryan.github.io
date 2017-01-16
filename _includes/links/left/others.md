@@ -29,3 +29,7 @@
 -  [Signingtime Signing](https://www.signingtime.com/resources/dictionary/)
 - [Configure jekyll to use custom plugins](http://stackoverflow.com/questions/28249255/how-do-i-configure-github-to-use-non-supported-jekyll-site-plugins/28252200#28252200)
 - [Using ES2015 with Asset Pipeline on Ruby on Rails](http://nandovieira.com/using-es2015-with-asset-pipeline-on-ruby-on-rails)
+
+- [Visit these restaurants with father](https://twitter.com/ytbryan/status/819463569393582081)
+
+- [What is module.export?](http://stackoverflow.com/a/5311377/388280)
