@@ -7,6 +7,8 @@ hefo_before:
 hefo_after:
   - 0
 permalink: /work
+hidden: true
+
 ---
 &nbsp;
 

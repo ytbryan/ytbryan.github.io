@@ -2,6 +2,8 @@
 title: Ruby Crawling Resource
 author: ytbryan
 layout: page
+hidden: true
+
 ---
 <div class="repository-meta js-details-container ">
   <div class="repository-description">

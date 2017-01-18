@@ -1,5 +1,5 @@
 ---
-title: Make An Appointment
+title: ★ Make An Appointment
 author: ytbryan
 layout: page
 permalink: /appointment

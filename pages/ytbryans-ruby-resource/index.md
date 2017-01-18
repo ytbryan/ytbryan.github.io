@@ -3,6 +3,8 @@ title: 'My Ruby Resource'
 author: ytbryan
 layout: page
 permalink: /ruby-resource
+hidden: true
+
 ---
 Adam Niedzielski Ruby on Rails&#8217; mistake [here][1]
 

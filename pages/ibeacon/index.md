@@ -3,6 +3,7 @@ title: iBeacon
 author: ytbryan
 layout: page
 permalink: /ibeacon
+hidden: true
 hefo_before:
   - 0
 hefo_after:

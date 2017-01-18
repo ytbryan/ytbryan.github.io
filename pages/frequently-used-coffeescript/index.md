@@ -3,6 +3,7 @@ title: Frequently Used Coffeescript
 author: ytbryan
 layout: page
 permalink: /frequently-used-coffeescript
+hidden: true
 ---
 <pre class="lang:default decode:true">$ -&gt;
   console.log("DOM is ready")</pre>
