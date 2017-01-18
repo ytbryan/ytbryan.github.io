@@ -1,5 +1,5 @@
 ---
-title: ★ About Bryan Lim
+title: About Bryan Lim
 author: ytbryan
 layout: page
 ---

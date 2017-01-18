@@ -1,5 +1,5 @@
 ---
-title: ★ Hire me for your next project
+title: Hire me for your next project
 author: ytbryan
 layout: page
 permalink: /hire-me

@@ -3,7 +3,7 @@
     <ul class="contact-list">
       {% for my_page in site.pages %}
         {% if my_page.title and my_page.hidden != true %}
-          <li class="page-link"><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+          <li class="page-link"> ★ <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
