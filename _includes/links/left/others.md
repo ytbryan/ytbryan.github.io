@@ -32,3 +32,6 @@
 - [Visit these restaurants with father](https://twitter.com/ytbryan/status/819463569393582081)
 - [What is module.export?](http://stackoverflow.com/a/5311377/388280)
 - [Nicer to just have load do the loading, not the assignment](https://github.com/rails/webpacker/commit/8916a53be9ce8cc7be9ae500de0687ef56515683)
+- [Top five amateaur writer mistake](https://www.youtube.com/watch?v=R-jXu88C51w)
+- [Changing the subtitle position](https://www.vlchelp.com/how-to-change-subtitle-position-in-vlc/)
+- [Writing course for you](http://study.com/articles/10_Universities_Offering_Free_Writing_Courses_Online.html)
