@@ -4,3 +4,4 @@
 - [Random Forest example](https://www.kaggle.com/ytbryan/titanic/random-forest-benchmark-r/edit)
 - [10 types of regressions](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
 - [Linear Regression and Logistic Regression](http://stats.stackexchange.com/questions/29325/what-is-the-difference-between-linear-regression-and-logistic-regression)
+- [Probability and statistics symbols table and definitions.](http://www.rapidtables.com/math/symbols/Statistical_Symbols.htm)
