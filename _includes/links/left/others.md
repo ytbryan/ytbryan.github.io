@@ -35,6 +35,5 @@
 - [Top five amateaur writer mistake](https://www.youtube.com/watch?v=R-jXu88C51w)
 - [Changing the subtitle position](https://www.vlchelp.com/how-to-change-subtitle-position-in-vlc/)
 - [Writing course for you](http://study.com/articles/10_Universities_Offering_Free_Writing_Courses_Online.html)
-
 - [How to make a bookmarklet](https://betterexplained.com/articles/how-to-make-a-bookmarklet-for-your-web-application/)
 - [why do programmers need long period of silence when doing work?](https://twitter.com/GavinBowman)
