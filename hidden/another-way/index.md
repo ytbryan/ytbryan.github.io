@@ -6,7 +6,11 @@ hidden: true
 permalink: /anotherway
 
 ---
-### DO NOT SHARE THIS YET
+
+
+
+
+# DO NOT SHARE THIS YET
 
 ## Another Way Academy
 
@@ -17,6 +21,15 @@ Another Way Academy is an online programming course designed to introduce simple
 ### Timing
 
 > Every Friday: 8:00pm - 9:30pm.
+
+### Syllabus
+- Learn how to create a website using Jekyll
+- Learn the fundermental of writing code
+- Learn HTML, CSS, Javascript, Ruby/Rails
+- Understand incremental improvement and practice it
+- Hands on projects
+- Deploy everything you learn
+- Ruby/Rails/JS
 
 ### Prerequisite
 
