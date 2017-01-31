@@ -29,7 +29,7 @@ Another Way Academy is an online programming course designed to introduce simple
 - Understand incremental improvement and practice it
 - Hands on projects
 - Deploy everything you learn
-- Ruby/Rails/JS
+- Use tools like Git, Terminal, Research, Minimal Design, Incremental Product Development
 
 ### Prerequisite
 
