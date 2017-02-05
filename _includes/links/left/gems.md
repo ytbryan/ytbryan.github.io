@@ -1,4 +1,4 @@
-# GEMS
+# GEMS - God Enables Me Service
 
 - []()
 - []()

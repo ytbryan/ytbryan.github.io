@@ -27,3 +27,4 @@ paginate_path: "/page/:num"
 gems:
  - jekyll-coffeescript
  - jekyll-paginate
+ - jekyll-seo-tag
