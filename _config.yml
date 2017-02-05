@@ -28,3 +28,4 @@ gems:
  - jekyll-coffeescript
  - jekyll-paginate
  - jekyll-seo-tag
+ - jekyll-sitemap

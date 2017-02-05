@@ -1,0 +1,14 @@
+source 'https://rubygems.org'
+
+gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-coffeescript'
+gem 'jekyll-paginate'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'jekyll-admin', group: :jekyll_plugins
+gem 'jekyll-redirect-from'
+gem 'jekyll-import'
+gem 'amp-jekyll'
+gem 'jekyll-gist'
+gem 'jekyll-github-metadata'
+gem 'jekyll-minibundle'
