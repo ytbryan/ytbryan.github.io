@@ -7,16 +7,18 @@ permalink: /anotherway
 
 ---
 
-
-
-
 # DO NOT SHARE THIS YET
 
 ## Another Way Academy
 
+The current enrolment is closed, if you like to sign up, email -> ytbryan@gmail.com
+
 Another Way Academy is an online programming course designed to introduce simple software making to *school-dropouts*, *ex-convicts* and *ex-juvenile delinquencies*.
 
 *This course is created to help these group of people to stand up on their feet, to contribute back to their society, to have a second chance. There's always another way out.*
+
+If you feel the same way, maybe we can work together to our society friendlier to those who needs a second chance.
+
 
 ### Timing
 

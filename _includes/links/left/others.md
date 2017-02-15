@@ -38,3 +38,4 @@
 - [How to make a bookmarklet](https://betterexplained.com/articles/how-to-make-a-bookmarklet-for-your-web-application/)
 - [why do programmers need long period of silence when doing work?](https://twitter.com/GavinBowman)
 - [Average parent vs wise parents](https://brightside.me/inspiration-family-and-kids/11-crucial-differences-between-the-average-parent-and-the-wise-parent-239810/)
+- [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
