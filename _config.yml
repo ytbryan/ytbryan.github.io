@@ -11,12 +11,11 @@ email: ytbryan.com
 description: > # this means to ignore newlines until "baseurl:"
   I am the founder of The Amazing Digital Asia which was started in 2011. We do custom software and programming consulting. Currently I am staying in Singapore.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ytbryan.com" # the base hostname & protocol for your site
+url: "https://ytbryan.com" # the base hostname & protocol for your site
 twitter_username: ytbryan
 github_username:  ytbryan
 facebook_username:  bryanlim
 stackoverflow_usersname: ytbryan
-
 clicky:
   trackingid: 100784720
 
