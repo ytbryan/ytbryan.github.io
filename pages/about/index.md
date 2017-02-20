@@ -15,6 +15,9 @@ You can [hire me here][4] to improve your technical team and create custom softw
 
 Check out my open source projects at [github][1], [rubygems][5], and [ask me questions on stackoverflow][2] or [quora][6].
 
+Skype id: ytbryan
+Zoom id: 714-178-6431
+
 Thanks for reading!
 
  [3]: mailto:bryan@tada.asia

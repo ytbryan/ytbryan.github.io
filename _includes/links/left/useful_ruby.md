@@ -4,3 +4,4 @@
 - [Creating embedable javascript](http://blog.swirrl.com/articles/creating-asynchronous-embeddable-javascript-widgets/)
 - [Reusable dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
 - [Building a Jekyll Gem](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
+- [Google Authentication in Ruby On Rails](https://richonrails.com/articles/google-authentication-in-ruby-on-rails)
