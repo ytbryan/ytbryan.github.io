@@ -5,3 +5,5 @@
 - [Reusable dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
 - [Building a Jekyll Gem](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
 - [Google Authentication in Ruby On Rails](https://richonrails.com/articles/google-authentication-in-ruby-on-rails)
+- [Rubular - ruby regex](http://rubular.com)
+- [ruby documentation](http://ruby-doc.com/docs/ProgrammingRuby/#UJ)
