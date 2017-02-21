@@ -7,3 +7,4 @@
 - [Google Authentication in Ruby On Rails](https://richonrails.com/articles/google-authentication-in-ruby-on-rails)
 - [Rubular - ruby regex](http://rubular.com)
 - [ruby documentation](http://ruby-doc.com/docs/ProgrammingRuby/#UJ)
+- [figure out what is \1\2 in gsub](http://stackoverflow.com/a/288595/388280)
