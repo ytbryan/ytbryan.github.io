@@ -23,6 +23,6 @@ Send me an email after you have made a transaction: <bryan@tada.asia>
 For personal transaction, please make it to either account:
 
   * POSB Saving 109-21650-0
-  * OCBC Saving
+  * OCBC Saving 
 
 Send me an email after you have transferred: <ytbryan@gmail.com>
