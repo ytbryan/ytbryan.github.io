@@ -8,3 +8,5 @@
 - [Weka download](http://www.cs.waikato.ac.nz/ml/weka/downloading.html)
 - [Installing Spark R on R studio via github](http://stackoverflow.com/a/31185202/388280)
 - [Installing apache spark](http://genomegeek.blogspot.sg/2014/11/how-to-install-apache-spark-on-mac-os-x.html)
+- [explanation on each apache distribution on datascience ](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared)
+- [Pyspark and its transformation + actions](https://www.mapr.com/blog/using-python-apache-spark)

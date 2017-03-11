@@ -16,7 +16,8 @@
   
 
   <script>
-    if (!(window.location.host.startsWith("127.0.0.1")) && (window.location.protocol != "https:")){
+    // Enforce https
+    if ((window.location.host.startsWith("ytbryan.com")) && (window.location.protocol != "https:")){
       window.location.protocol = "https";
     }
   </script>
@@ -50,7 +51,7 @@
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
       })();
   </script>
-  
+
 </head>
 
   <body>
@@ -94,8 +95,8 @@
     <h1 class="post-title">Links</h1>
   </header>
   <div class="post-content">
-    <div class="border row">
-      <div class="border col-md-6">
+    <div class="row">
+      <div class="col-md-6">
         <div class="redcontainer">
   <h1 id="law-in-singapore">Law in Singapore</h1>
 
@@ -235,6 +236,8 @@
   <li><a href="http://www.cs.waikato.ac.nz/ml/weka/downloading.html">Weka download</a></li>
   <li><a href="http://stackoverflow.com/a/31185202/388280">Installing Spark R on R studio via github</a></li>
   <li><a href="http://genomegeek.blogspot.sg/2014/11/how-to-install-apache-spark-on-mac-os-x.html">Installing apache spark</a></li>
+  <li><a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">explanation on each apache distribution on datascience </a></li>
+  <li><a href="https://www.mapr.com/blog/using-python-apache-spark">Pyspark and its transformation + actions</a></li>
 </ul>
 
 </div>
@@ -470,6 +473,8 @@
     <footer class="site-footer">
   <div class="wrapper">
     <ul class="contact-list">
+      
+        
       
         
       

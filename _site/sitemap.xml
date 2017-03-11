@@ -137,6 +137,9 @@
 <loc>http://localhost:4000/autistic</loc>
 </url>
 <url>
+<loc>http://localhost:4000/examples/blinking-pointer</loc>
+</url>
+<url>
 <loc>http://localhost:4000/classes</loc>
 </url>
 <url>

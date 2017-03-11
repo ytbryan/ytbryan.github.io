@@ -15,7 +15,8 @@
   {% endif %}
 
   <script>
-    if (!(window.location.host.startsWith("127.0.0.1")) && (window.location.protocol != "https:")){
+    // Enforce https
+    if ((window.location.host.startsWith("{{ site.site_url }}")) && (window.location.protocol != "https:")){
       window.location.protocol = "https";
     }
   </script>
@@ -34,5 +35,5 @@
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
       })();
   </script>
-  
+
 </head>
