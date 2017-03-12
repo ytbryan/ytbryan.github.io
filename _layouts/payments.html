@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-page
 ---
 
 <article class="post">
@@ -7,16 +7,11 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
   <div class="post-content">
-    <div class="border row">
-      <div class="border col-md-6">
+    <div class="row">
+      <div class="col-md-12">
         {% include payment/index.html %}
       </div>
     </div>
 
-    <!-- post-content -->
-
-    {% include newfolks.html %}
-    {% include follow-me.html %}
-    {% include subscribe_to_bootstrap_guide.html %}
   </div>
 </article>

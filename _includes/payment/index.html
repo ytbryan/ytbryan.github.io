@@ -1,5 +1,80 @@
-<h2>Make service payment</h2>
 
-<div class="">
+
+
+<div class="bg-primary padding_15">
   {% markdown payment/markdowns/impt-message.md %}
 </div>
+
+<br>
+<hr>
+<br>
+
+<div class="">
+  <div id="app-6">
+    <p>{{ message }}</p>
+    ★   <input v-model="message">
+  </div>
+</div>
+
+<br>
+<hr>
+<br>
+
+
+<div class="">
+  {% markdown payment/markdowns/noattribute-license.md %}
+  <a href="http://paypal.me/tadapay/200usd">
+    <button href="" class="btn btn-small btn-default" type="button" name="button">Make Payment</button>
+  </a>
+</div>
+
+<br>
+<hr>
+<br>
+
+<div class="">
+  {% markdown payment/markdowns/3day-support.md %}
+  <button class="btn btn-small btn-default" type="button" name="button">Make Payment</button>
+</div>
+
+<br>
+<hr>
+<br>
+
+<div class="">
+  {% markdown payment/markdowns/internet-call.md %}
+  <button class="btn btn-small btn-default" type="button" name="button">Make Payment</button>
+</div>
+
+<br>
+<hr>
+<br>
+
+<div class="">
+  {% markdown payment/markdowns/one-day-support.md %}
+  <a href="http://paypal.me/tadapay/6000usd">
+    <button href="" class="btn btn-small btn-default" type="button" name="button">Make Payment using Paypal/Visa/Mastercard</button>
+  </a>
+</div>
+
+<br>
+<hr>
+<br>
+
+<div class="">
+  {% markdown payment/markdowns/one-week-support.md %}
+  <a href="http://paypal.me/tadapay/1000usd">
+    <button class="btn btn-small btn-default" type="button" name="button">Make Payment using Paypal/Visa/Mastercard</button>
+  </a>
+</div>
+
+
+
+<script>
+  var app6 = new Vue({
+    el: '#app-6',
+    data: {
+      message: 'Hello Vue!'
+    }
+  })
+</script>
