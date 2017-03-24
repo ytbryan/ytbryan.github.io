@@ -3,7 +3,7 @@ title: Autistic Wonder
 author: ytbryan
 layout: default
 hidden: true
-permalink: /autistic
+permalink: /autisticwonder
 
 ---
 
