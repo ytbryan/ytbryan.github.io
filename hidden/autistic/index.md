@@ -1,19 +1,23 @@
 ---
 title: Autistic
 author: ytbryan
-layout: default
+layout: default-page
 hidden: true
 permalink: /autistic
 
 ---
 
+## You asked me about Autism
+
+```
 Hi there, you are reading this because you asked me about autistics or express interest in helping out with this group of people.
 
 This article is written because I spend a considerable amount of time repeating myself about my experience.
 
 If you are here for the links, click here to skip the introduction.
+```
 
-What is Autism?
+### What is Autism?
  I am hardly an autistic expert and also have no kids who are autistic.   Most of the things I write here, is based on my research, my interaction with the children and my personal observation.
 
 Autism is a range of neuro-developmental disorder. It is a range because some children have badly affected while the others are mildly affected.
@@ -26,7 +30,7 @@ Also, there are other groups of disorder like Attention Deficit Hyperactivity Di
 
 While these children have a certain characteristic, I would say deep down, they are the same. They are children.
 
-Now
+### Now
 
 I am currently serving at a Christian ministry dedicated to autistics and special needs children under Faith Methodist Church at ACJC. The worship session usually takes 1 - 2 hours every Sunday.
 
@@ -36,7 +40,7 @@ Every two weeks, I also spend time to prepare homework/lessons for them to take 
 
 Other than the big three roles, I think most of my work revolve around being a coordinator and also their ambassador to raise awareness of their presence.
 
-Why volunteer?
+### Why volunteer?
 
 I think the answer lies with yourself because everyone serve and volunteer for a different reason.
 
@@ -46,7 +50,7 @@ But more importantly, anyone who wish to volunteer, should have a heart to serve
 
 If you wish to start, check out the links below to find out more.
 
-The links
+### The links
 
 - What is autism
 - What is autism 2
@@ -59,14 +63,16 @@ The links
     -
 Note about the links: The videos serve as an introduction. Autism is a spectrum. You will observe children with different severity of the disorder. Hence, do not generalise autistic children to a certain severity based on the video you watched above.
 
-Can I contact you to ask more questions?
+## Questions
+
+### Can I contact you to ask more questions?
 
 Yes
 
-If you wish to donate, where can I go to?
+### If you wish to donate, where can I go to?
 
 - If you wish to volunteer your time,
 
-Does vaccination cause autism?
+### Does vaccination cause autism?
 
 No.
