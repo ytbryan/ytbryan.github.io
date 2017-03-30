@@ -52,16 +52,16 @@ If you wish to start, check out the links below to find out more.
 
 ### The links
 
-- What is autism
-- What is autism 2
-- Autism video
-- Autism video 2
+- [What is autism](https://www.youtube.com/watch?v=Vju1EbVVgP8)
+- [What is autism 2](https://www.youtube.com/watch?v=d4G0HTIUBlI)
 - Where can I serve:
-    - Rainbow centre
-    - MINDS
-    - Eden School
-    -
-Note about the links: The videos serve as an introduction. Autism is a spectrum. You will observe children with different severity of the disorder. Hence, do not generalise autistic children to a certain severity based on the video you watched above.
+    - [Rainbow centre](http://www.rainbowcentre.org.sg)
+    - [MINDS](http://www.minds.org.sg)
+    - [Eden School](http://www.edenschool.edu.sg)
+
+Note about the links: The videos serve as an introduction. Autism is a spectrum. You will observe children with different severity of the disorder.
+
+Hence, do not generalise autistic children to a certain severity based on the video you watched above.
 
 ## Questions
 
