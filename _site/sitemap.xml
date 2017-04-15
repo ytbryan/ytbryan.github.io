@@ -173,7 +173,7 @@
 <loc>http://ytbryan.com/make-service-payment</loc>
 </url>
 <url>
-<loc>http://ytbryan.com/readfirst</loc>
+<loc>http://ytbryan.com/pay</loc>
 </url>
 <url>
 <loc>http://ytbryan.com/class/requirement</loc>
@@ -212,13 +212,16 @@
 <loc>http://ytbryan.com/pages/ruby-crawling/</loc>
 </url>
 <url>
+<loc>http://ytbryan.com/teaching</loc>
+</url>
+<url>
 <loc>http://ytbryan.com/work</loc>
 </url>
 <url>
 <loc>http://ytbryan.com/ruby-resource</loc>
 </url>
 <url>
-<loc>http://ytbryan.com/pay</loc>
+<loc>http://ytbryan.com/readfirst</loc>
 </url>
 <url>
 <loc>http://ytbryan.com/advice</loc>
