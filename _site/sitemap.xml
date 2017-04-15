@@ -173,7 +173,7 @@
 <loc>http://localhost:4000/make-service-payment</loc>
 </url>
 <url>
-<loc>http://localhost:4000/readfirst</loc>
+<loc>http://localhost:4000/pay</loc>
 </url>
 <url>
 <loc>http://localhost:4000/class/requirement</loc>
@@ -212,13 +212,16 @@
 <loc>http://localhost:4000/pages/ruby-crawling/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/teaching</loc>
+</url>
+<url>
 <loc>http://localhost:4000/work</loc>
 </url>
 <url>
 <loc>http://localhost:4000/ruby-resource</loc>
 </url>
 <url>
-<loc>http://localhost:4000/pay</loc>
+<loc>http://localhost:4000/readfirst</loc>
 </url>
 <url>
 <loc>http://localhost:4000/advice</loc>
