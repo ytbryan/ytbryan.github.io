@@ -1,6 +1,6 @@
-
-/*#d1d1d1: #d1d1d1;*/
-
+.circle-profile {
+  border-radius: 50%;
+}
 
 .text_white {
   color:white;
@@ -835,7 +835,6 @@ box-shadow: 0 1px 0 #fff;
 }
 
 
-
 .left_margin_10 {
   margin-left: 10px;
 }
@@ -884,24 +883,28 @@ box-shadow: 0 1px 0 #fff;
 
     }
 
-    .link:hover {
-      background: #F5F5F5;
-      color: black;
-      padding: 5px;
-      border-radius: 10px;
-    }
+.link:hover {
+  background: #F5F5F5;
+  color: black;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+a.post-link {
+  text-decoration: none;
+}
 
 
-    .first_gap {
-      margin-right:15px;
+.first_gap {
+  margin-right:15px;
 
-    }
-    .gap {
-      margin-left:15px;
-      margin-right:15px;
+}
+.gap {
+  margin-left:15px;
+  margin-right:15px;
 
-    }
+}
 
-    .last_gap {
-      margin-left: 15px;
-    }
+.last_gap {
+  margin-left: 15px;
+}
