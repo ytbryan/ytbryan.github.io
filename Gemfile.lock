@@ -53,6 +53,7 @@ GEM
       fastercsv
       jekyll (>= 1.4)
       nokogiri
+    jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.12.1)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
@@ -120,6 +121,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-github-metadata
   jekyll-import
+  jekyll-paginate
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
