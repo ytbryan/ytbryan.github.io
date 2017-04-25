@@ -9,6 +9,18 @@ permalink: /mac
 
 A  list of indispenable mac software that I have used over the years:
 
+### Ebook management
+- Calibre [http://calibre-ebook.com](http://calibre-ebook.com)
+
+### Conference
+
+- Zoom.us [https://zoom.us](https://zoom.us)
+
+### Subtitle
+- Aegisub [http://www.aegisub.org](http://www.aegisub.org)
+- Handbrake [https://handbrake.fr](https://handbrake.fr)
+
+### Everything else
 - Sitesucker [http://ricks-apps.com/osx/sitesucker/index.html](http://ricks-apps.com/osx/sitesucker/index.html)
 - DiffMerge [http://www.sourcegear.com/diffmerge/](http://www.sourcegear.com/diffmerge/)
 - SonoAir [https://t.co/UEMDv2XTy4](https://t.co/UEMDv2XTy4)
