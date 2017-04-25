@@ -15,7 +15,7 @@ gem 'jekyll-assets'
 # gem 'jekyll-minibundle'
 
 # gem 'jekyll-coffeescript'
-# gem 'jekyll-paginate'
+gem 'jekyll-paginate'
 
 # gem 'jekyll-docs'
 # gem 'jekyll-mentions'
