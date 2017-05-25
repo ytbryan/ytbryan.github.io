@@ -10,3 +10,5 @@
 - [Installing apache spark](http://genomegeek.blogspot.sg/2014/11/how-to-install-apache-spark-on-mac-os-x.html)
 - [explanation on each apache distribution on datascience ](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared)
 - [Pyspark and its transformation + actions](https://www.mapr.com/blog/using-python-apache-spark)
+- [regular-expressions](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+- [regular-expressions editor](http://rubular.com/)
