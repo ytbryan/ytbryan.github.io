@@ -12,3 +12,4 @@
 - [Pyspark and its transformation + actions](https://www.mapr.com/blog/using-python-apache-spark)
 - [regular-expressions](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 - [regular-expressions editor](http://rubular.com/)
+- [Useful R functions](http://www.sr.bham.ac.uk/~ajrs/R/r-function_list.html)
