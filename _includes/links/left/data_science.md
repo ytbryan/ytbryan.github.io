@@ -13,3 +13,4 @@
 - [regular-expressions](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 - [regular-expressions editor](http://rubular.com/)
 - [Useful R functions](http://www.sr.bham.ac.uk/~ajrs/R/r-function_list.html)
+- [Classify texts into topic using mallet](https://de.dariah.eu/tatom/topic_model_mallet.html)
