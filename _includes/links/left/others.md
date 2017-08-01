@@ -1,4 +1,6 @@
 # Others
+- [Test your ssl setup with htbridge](https://www.htbridge.com/ssl/)
+- [Test your ssl setup with ssllabs](https://www.ssllabs.com/ssltest/index.html)
 - [2015 for 2016](https://twitter.com/ytbryan/status/680666616992956416)
 - [2017 for 2017](https://twitter.com/ytbryan/status/817289198390476800)
 - [Office Gossip Antidote](https://hbr.org/2016/11/the-antidote-to-office-gossip)
