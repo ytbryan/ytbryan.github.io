@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ytbryan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ytbryan.com
+  * I am ytbryan (https://keybase.io/ytbryan) on keybase.
+  * I have a public key with fingerprint EB01 CADE 636C 0F06 77E8  AAA0 7264 5EAA EF5B 9F15
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010137578dbdf043bc92ab66a7dc277f290d9f9015474fbebf814cad4e81be5430280a",
+            "fingerprint": "eb01cade636c0f0677e8aaa072645eaaef5b9f15",
+            "host": "keybase.io",
+            "key_id": "72645eaaef5b9f15",
+            "kid": "010137578dbdf043bc92ab66a7dc277f290d9f9015474fbebf814cad4e81be5430280a",
+            "uid": "44e33a51782d02d36975bafef8dade19",
+            "username": "ytbryan"
+        },
+        "service": {
+            "hostname": "ytbryan.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1484020869,
+    "expire_in": 157680000,
+    "prev": "dabbb63e81afde268e8303f6f06436ca6381c7fd8c4ee1bfb8a180c4fb8dbc7e",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSFRBGN5Na9PUbmZFZHSIihCZc5+zUNuFpYtoqShdrHXmnBk7qOes
+u2etRY2goiKziC4kIfTQQxrdKCwISxGSfGjRyoeeEqILJZglCprNkXoIemxehvnn
++775vv+f7vQkT6rXl5j5MgGH13h7Oy/FPLudshN1HLaNOOev4yrJ9EaqDBJ1QpWm
+wfk5wANeVGUVGtigQBKxrgkIKwpSDV1QVSpowNCoBnhZUiWKCaaQl3RkSATymMiS
+CAQIEJfDUdOqIJFwxLQcJksw4BmKKKKiAwoUVSUQIQRUQZFkghChMtYoLzPiQTvq
+Mpg5jKIk17RZjR1C0/b+gf/PvmPTcpJERBHJvAoFAwiGqGiqjBElFBosBa+5wCiJ
+WKiaMHTcwZE4sriGHI4Va02duH11g/wNyNXtasYMR2zH1u0qdnHQccJRv0t04mEX
+eYjg0G+NEDYtg3WRMWpJJGraFufnGVJ3TFeUl6AEBAAVLYcjh8NmhIRMFyGrCgRs
+ue+QWiZpIIyxIrKgiBpEUCCBIhCpwsYgsXEgRYS8rlID6hIhPKYYIh4CnXWJNVNX
+CeemqrFszi8zm6iCSUbNCgs5sQjhGrqelSV7vKmeWTNnuL/Lk5oy78+fo12+qSpp
+b33Lrgmrj96ZDJbeH/O1Di4v+rG16crE0M2ixuGpbeUFI+EneWb2ko7kzN3Bx48+
+7OFWXUuLfblllGanP7y3bPDR1uN3Mzt83jMFTSubFnZ1BdOaP6WlzIU7b/94lzS0
+vU307r9O+08FPtcln91y9IA8e9CePyas/Xh+3Ju0uv6b01teUlVeOHZuRWNSVuDq
+wI6369/kLy1oX0RSp1ryD9V8yNgMY6gvXtv+s23f2pOB/qGRy5vGXyTMB/iCuqBn
+NFBceMP3ujtrS2DJ17KNcxZ3jPYMd54oPru8d2V+2dMNx4684oJH8y6WPB873Xp6
+UtSUC/O+Z7S/TyTeDaxrLi35BbOVP80=
+=lMn5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ytbryan
+
+==================================================================
